@@ -71,5 +71,6 @@ export const Loading = styled.div`
     left: 50%;
     position: absolute;
     transform: translate(-50%, -50%);
+    font-size: 30px;
   }
 `;
