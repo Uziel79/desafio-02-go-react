@@ -2,7 +2,6 @@
   "name": "desafio-02-go-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://uziel79.github.io/github-issues",
   "dependencies": {
     "axios": "^0.18.0",
     "font-awesome": "^4.7.0",
